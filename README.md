@@ -1,4 +1,4 @@
-![alt text](https://github.com/AnshuData/AirflowPipeline_GIS_data_ETL/blob/main/Database_ERD.png)
+![alt text](https://github.com/AnshuData/AirflowPipeline_GIS_data_ETL/blob/main/Workflow.png)
 
 
 # AirflowPipeline_GIS_data_ETL
