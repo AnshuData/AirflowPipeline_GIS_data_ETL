@@ -3,6 +3,7 @@
 This is airflow pipeline created with Airflow version 2.
 
 #It uses:
+
 	a. Airflow within docker container
 	b. AWS MySQL
 
