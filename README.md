@@ -32,4 +32,4 @@ This is airflow pipeline created with Airflow version 2.
 
 
 
-![alt text](https://github.com/AnshuData/AirflowPipeline_GIS_data_ETL/blob/main/Workflow.png)
+![alt text](https://github.com/AnshuData/AirflowPipeline_GIS_data_ETL/blob/main/Database_ERD.png)
