@@ -29,3 +29,7 @@ This is airflow pipeline created with Airflow version 2.
 
 
 	5. Trigger the Pipeline
+
+
+
+![alt text](https://github.com/AnshuData/AirflowPipeline_GIS_data_ETL/blob/main/Workflow.png)
