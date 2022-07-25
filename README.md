@@ -2,11 +2,11 @@
 
 This is airflow pipeline created with Airflow version 2.
 
-It uses:
+#It uses:
 	a. Airflow within docker container
 	b. AWS MySQL
 
-##To run the pipeline; you need docker installed and running
+#To run the pipeline; you need docker installed and running
 
 	1. docker build -t airflow/kettle_takehome:1.0.1 .
 
